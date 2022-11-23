@@ -1,1 +1,23 @@
-This is a basic python gui project on hospital management system
+This is a basic python gui project on hospital management system. The purpose of this project entitled as “Hospital Management System” is to computerize the Front Office Management of Hospital to develop software which is user friendly, simple,fast and cost-effective. It deals with collection of Patient’s information, Details, Doctors information, appointment, etc. Traditionally ,it was done manually.
+      The main function of the system is register and store patient details and doctor’s appointment details and retrieve these details as and when required, and also to manipulate these details meaningfully system input contains patient details, and other details. 
+While system output is to get these details on to the screen. 
+The Hospital Management system can be entered using a username and password. It is accessible either by an administrator or receptionist. Only they can add data into the database. The data can be retrieved easily. The data are well protected for personal use and makes the data processing very fast. For data administration we use safe and secured database editable only to the receptionist.
+We have gone through the following resources to achieve this ultimate project :
+
+
+1.TK Calendar
+In Tkinter, there is no in-built method for date picker calendar, here we will use the tkcalendar Module.
+Tkcalendar : tkcalendar is a Python module that provides the Calendar and DateEntry widgets for Tkinter. 
+
+2.EasyGui
+	EasyGui is a module for very simple, very easy GUI programming in Python. EasyGUI is different from other GUI generators in that EasyGUI is NOT event-driven. Instead, all GUI interactions are invoked by simple function calls. Unlike other complicated GUI’s EasyGUI is the simplest GUI till now.
+
+
+     
+3. MYSQL
+	Python MySQL Connector is a Python driver that helps to integrate Python and MySQL. This Python MySQL library allows the conversion between Python and MySQL data types. MySQL Connector API is implemented using pure Python and does not require any third-party library. 
+
+
+4.Pyglet
+	pyglet is a library for the Python programming language that provides an object-oriented application programming interface for the creation of games and other multimedia applications. pyglet runs on Microsoft Windows, macOS, and Linux; it is released under BSD Licence
+
